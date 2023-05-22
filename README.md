@@ -1,7 +1,7 @@
 
 # Streeto
 
-Streeto API  is for Vendors and Customers using app
+Streeto API is used for Vendors App and Customer App
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
